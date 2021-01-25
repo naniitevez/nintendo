@@ -130,3 +130,7 @@
     background-color: rgb(224, 144, 24);
     background-size: 50px 50px;
 }
+
+.hidden {
+    opacity: 0;
+}
